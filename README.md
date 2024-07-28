@@ -93,10 +93,10 @@
 
 ###
 
-<h3 align="left">Certificate</h3>
+<h3 align="center">Certificate</h3>
 
 ###
 
-<h6 align="left">Unity 401 - Turkcell Geleceği Yazanlar</h6>
+<h6 align="center">Unity 401 - Turkcell Geleceği Yazanlar</h6>
 
 ###
